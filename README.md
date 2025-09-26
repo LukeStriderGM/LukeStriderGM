@@ -16,6 +16,14 @@
 
 <hr>
 
+<div align="center">  
+
+  <img src="Gemini_Generated_Image_r80sijr80sijr80s.png" width="" height=""/>
+
+</div>
+
+<hr>
+
 <div align="center">
 
   Gemini 2.5 PRO Generated Image (2K25Y)
