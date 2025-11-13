@@ -10,6 +10,14 @@
 
 <div align="center">  
 
+  <img src="NEXA.png" width="" height=""/>
+
+</div>
+
+<hr>
+
+<div align="center">  
+
   <img src="Gemini_Generated_Image_r80sijr80sijr80s.png" width="" height=""/>
 
 </div>
@@ -27,6 +35,14 @@
 <div align="center">  
 
   <img src="NEXUS-AUREUM.jpg" width="" height=""/>
+
+</div>
+
+<hr>
+
+<div align="center">  
+
+  <img src="Cognitive_Science_Hexagon.png" width="" height=""/>
 
 </div>
 
