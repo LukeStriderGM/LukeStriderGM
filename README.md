@@ -18,7 +18,15 @@
 
 <div align="center">  
 
-  <img src="Gemini_Generated_Image_r80sijr80sijr80s.png" width="" height=""/>
+  <img src="POLISH_CIVIL_DEFENCE.png" width="" height=""/>
+
+</div>
+
+<hr>
+
+<div align="center">  
+
+  <img src="Night_Ghost.jpg" width="" height=""/>
 
 </div>
 
