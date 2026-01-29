@@ -26,7 +26,7 @@
 
 <div align="center">  
 
-  <img src="Night_Ghost.jpg" width="" height=""/>
+  <img src="BLOX-TAK_SF_WP.png" width="" height=""/>
 
 </div>
 
@@ -34,7 +34,7 @@
 
 <div align="center">  
 
-  <img src="BLOX-TAK_SF_WP.png" width="" height=""/>
+  <img src="Night_Ghost.jpg" width="" height=""/>
 
 </div>
 
