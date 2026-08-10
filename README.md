@@ -74,6 +74,8 @@
 
   PayPal
 
+  https://www.paypal.com/paypalme/LukeBlueLOx
+
   <img src="QRPAYPAL.png" width="" height=""/>
 
   <br>
